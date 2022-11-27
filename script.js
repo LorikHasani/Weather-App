@@ -26,7 +26,7 @@ let weather = {
 
         let imgName = name;
 
-        document.body.style.backgroundImage = `url(${name}.jpg)`;
+        document.body.style.backgroundImage = `url(img/${name}.jpg)`;
 
     },
     search: function () {
