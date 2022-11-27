@@ -7,6 +7,7 @@ body {
     background: #222;
     background-image: url("img/London.jpg");
     font-size: 120%;
+    opacity: 0.9;
 }
 
 .card {
@@ -47,7 +48,7 @@ input.search-bar {
     outline: none;
     padding: 0.4em 1em;
     border-radius: 24px;
-    background: #7c7c7c;
+    background: #a19d9d;
     color: white;
     font-family: inherit;
     font-size: 105%;
